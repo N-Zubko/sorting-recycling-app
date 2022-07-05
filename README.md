@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# About this project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I am building an educational React JavaScript app to teach about waste disposal
 
 ## Available Scripts
 
